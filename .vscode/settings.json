@@ -1,0 +1,31 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "CardioDB",
+      "database": "Cardiovascular Disease",
+      "username": "postgres"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "BookStoreDB",
+      "database": "BookStoreDB",
+      "username": "postgres"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "SpotifyDB",
+      "database": "SpotifyDB",
+      "username": "postgres"
+    }
+  ]
+}
